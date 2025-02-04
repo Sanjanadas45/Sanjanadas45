@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Sanjana Das
 - 👀 A passionate Coder and Developer
 - 🌱 I’m currently learning DSA in JAVA and Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at sanjana45das@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
 
 <!---
 Sanjanadas45/Sanjanadas45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
