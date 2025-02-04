@@ -1,20 +1,3 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: sanjana/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: sanjana
-            # Text on contribution graph 
-            text: SANJANA
-       - uses: sanjana/simple-push-action@v1
-
 # 💫 About Me:
 - Passionate Coder and Developer<br>- Currently learning JAVA, Web Development<br>- Ask me about JAVA, MySQL, Web Dev<br>- Reach me at sanjana45das@gmail.com
 
